@@ -1,7 +1,7 @@
 ## Hi there 👋
-Currently an Undergraduate Students in the Computer Engineering Major
-\nPrevious experiences with HTML, CSS, and Python
-\nCurrently learning Java through University Courses 
+- Undergraduate Student in Computer Engineering
+- Previous experiences with HTML, CSS, and Python
+- I'm currently learning Java through University Courses 
 <!--
 **sushan-g18/sushan-g18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
