@@ -1,7 +1,7 @@
 ## Hi there 👋
 - Undergraduate Student in Computer Engineering
-- Previous experiences with HTML, CSS, and Python
-- I'm currently learning Java through University Courses 
+- I have some experience with Java, HTML, CSS
+- Currently learning React, TypeScript
 <!--
 **sushan-g18/sushan-g18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
