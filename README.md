@@ -1,7 +1,8 @@
 ## Hi there 👋
 - Undergraduate Student in Computer Engineering
 - I have some experience with Java, HTML, CSS
-- Currently learning React, TypeScript
+- Currently learning React, TypeScript through web development
+- Learning C, Assembly and Verilog through university courses this semester
 <!--
 **sushan-g18/sushan-g18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
